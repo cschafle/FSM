@@ -11,4 +11,4 @@ On the watch: even when you are not on Sproul the app has a deck of cards with a
 
 The Phone: When on Sproul, you can upload as many photos as you want, however, outside of Sproul the phone will present a screen directing the user to go to Sproul. It will also allow the user to uninstall or install the toq app. Upon uploading to flickr, a new card will appear on the watch.
 
-For images and videos please visit: https://www.hackster.io/chlorrinne/fsm1-b62ccahttps://www.hackster.io/chlorrinne/fsm1-b62cca
+For images and videos please visit: https://www.hackster.io/chlorrinne/fsm1-b62cca?ref=search&ref_id=FSM&offset=1
