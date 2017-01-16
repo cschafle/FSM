@@ -1,5 +1,5 @@
 # FSM
-Android application geared towards commemorating the Free Speech Movement at Cal through crowd sourced drawings and images that are uploaded via Flickr. This application also uses the Qualcomm Toq Watch.
+Android application geared towards commemorating the Free Speech Movement (FSM) at Cal through crowd sourced drawings and images that are uploaded via Flickr. This application also uses the Qualcomm Toq Watch.
 
 STORY
 
@@ -11,4 +11,4 @@ On the watch: even when you are not on Sproul the app has a deck of cards with a
 
 The Phone: When on Sproul, you can upload as many photos as you want, however, outside of Sproul the phone will present a screen directing the user to go to Sproul. It will also allow the user to uninstall or install the toq app. Upon uploading to flickr, a new card will appear on the watch.
 
-For videos please visit: https://www.hackster.io/chlorrinne/fsm1-b62cca?ref=user&ref_id=2343&offset=2
+<iframe frameborder='0' height='327.5' scrolling='no' src='https://www.hackster.io/chlorrinne/fsm1-b62cca/embed' width='350'></iframe>
